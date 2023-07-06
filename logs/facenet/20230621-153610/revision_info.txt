@@ -1,0 +1,7 @@
+arguments: src/train_softmax.py --logs_base_dir /home/frt/ConvertedToTf2/logs/facenet --models_base_dir /home/frt/ConvertedToTf2/models/facenet --data_dir /home/frt/ConvertedToTf2/datasets/aligned_casia --image_size 160 --model_def models.inception_resnet_v1 --optimizer ADAM --learning_rate -1 --max_nrof_epochs 10 --keep_probability 0.8 --random_crop --random_flip --use_fixed_image_standardization --learning_rate_schedule_file /home/frt/ConvertedToTf2/data/learning_rate_schedule_classifier_casia.txt --weight_decay 5e-4 --embedding_size 512
+--------------------
+tensorflow version: 2.5.0
+--------------------
+git hash: b''
+--------------------
+b''

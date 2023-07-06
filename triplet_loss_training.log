@@ -1,0 +1,16 @@
+WARNING:tensorflow:From src/train_tripletloss.py:132: batch_join (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.interleave(...).batch(batch_size)` (or `padded_batch(...)` if `dynamic_pad=True`).
+WARNING:tensorflow:From /home/frt/anaconda3/envs/facenet_official/lib/python3.7/site-packages/tensorflow/python/training/input.py:732: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From /home/frt/anaconda3/envs/facenet_official/lib/python3.7/site-packages/tensorflow/python/training/input.py:732: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+INFO:tensorflow:Summary name total_loss (raw) is illegal; using total_loss__raw_ instead.
+WARNING:tensorflow:From /home/frt/anaconda3/envs/facenet_official/lib/python3.7/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/frt/anaconda3/envs/facenet_official/lib/python3.7/site-packages/tensorflow/python/training/moving_averages.py:553: Variable.initialized_value (from tensorflow.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use Variable.read_value. Variables in 2.X are initialized automatically both in eager and graph (inside tf.defun) contexts.

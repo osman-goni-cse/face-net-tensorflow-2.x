@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/frt/ConvertedToTf2/models/facenet/20230621-153610/model-20230621-153610.ckpt-10"
+all_model_checkpoint_paths: "/home/frt/ConvertedToTf2/models/facenet/20230621-153610/model-20230621-153610.ckpt-8"
+all_model_checkpoint_paths: "/home/frt/ConvertedToTf2/models/facenet/20230621-153610/model-20230621-153610.ckpt-9"
+all_model_checkpoint_paths: "/home/frt/ConvertedToTf2/models/facenet/20230621-153610/model-20230621-153610.ckpt-10"

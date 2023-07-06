@@ -1,0 +1,7 @@
+arguments: src/train_tripletloss.py --logs_base_dir /home/frt/ConvertedToTf2/logs/facenet/ --models_base_dir /home/frt/ConvertedToTf2/models/facenet/ --data_dir /home/frt/ConvertedToTf2/datasets/aligned_casia/ --image_size 160 --model_def models.inception_resnet_v1 --lfw_dir /home/frt/ConvertedToTf2/datasets/lfw-deepfunneled/ --optimizer RMSPROP --learning_rate 0.01 --weight_decay 1e-4 --max_nrof_epochs 1
+--------------------
+tensorflow version: 2.10.0
+--------------------
+git hash: b''
+--------------------
+b''

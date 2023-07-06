@@ -1,0 +1,7 @@
+arguments: src/align/align_dataset_mtcnn.py /home/frt/ConvertedToTf2/datasets/lfw-deepfunneled /home/frt/ConvertedToTf2/datasets/aligned_lfw --image_size 182 --margin 44 --random_order --gpu_memory_fraction 0.25
+--------------------
+tensorflow version: 2.5.0
+--------------------
+git hash: b''
+--------------------
+b''

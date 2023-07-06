@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/frt/ConvertedToTf2/models/facenet/20230621-152729/model-20230621-152729.ckpt-1"
+all_model_checkpoint_paths: "/home/frt/ConvertedToTf2/models/facenet/20230621-152729/model-20230621-152729.ckpt-1"
